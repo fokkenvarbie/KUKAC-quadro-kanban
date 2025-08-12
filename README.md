@@ -1,1 +1,0 @@
-# KUKAC-quadro-kanban
