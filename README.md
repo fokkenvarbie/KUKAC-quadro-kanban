@@ -1,5 +1,5 @@
 <h1>Quadro Kanban - Teste Técnico.</h1>
-Este projeto foi desenvolvido para um teste técnico da empresa Kukac, cujo foco principal foi construir um relatório detalhado dos problemas encontrados no frontend do site https://kanban-dusky-five.vercel.app/, além de realizar um desafio opcional criando um conjunto de scripts de testes automatizados E2E usando Cypress.
+Este projeto foi desenvolvido para um teste técnico da empresa Kukac, cujo foco principal foi construir um relatório detalhado dos problemas encontrados no frontend do site https://kanban-dusky-five.vercel.app/, além de realizar um desafio opcional criando um conjunto de scripts de testes automatizados ponta-a-ponta (E2E) usando Cypress.
 
 <h2>Objetivo:</h2>
 • Avaliar a interface e experiência do usuário do Quadro Kanban.<br>
